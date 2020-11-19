@@ -8,5 +8,5 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 <br>
 <a href="https://dry-coast-28364.herokuapp.com/">Click to Visit My Page!</a><br><br>
-<img src="./public/screenShot.png" alt="app screenshot">
+<img src="./employee-directory/public/screenShot.png" alt="app screenshot">
 <br><br>

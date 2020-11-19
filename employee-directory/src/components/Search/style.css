@@ -1,0 +1,11 @@
+.searchbox{
+    align-items: center;
+    cursor: pointer;
+}
+.searchbox button{
+    border: 2px solid rgb(51, 51, 70);
+}
+.searchbox button:hover {
+    background-color: rgb(38, 38, 77);;
+    color:whitesmoke;
+}
